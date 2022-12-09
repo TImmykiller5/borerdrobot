@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/boredrobot/static/css/main.56ee656c.css",
+    "main.js": "/boredrobot/static/js/main.d5ec5974.js",
+    "static/js/787.9aac5ed5.chunk.js": "/boredrobot/static/js/787.9aac5ed5.chunk.js",
+    "static/media/badrobot3d.woff": "/boredrobot/static/media/badrobot3d.4251be79627041f85aa9.woff",
+    "index.html": "/boredrobot/index.html",
+    "main.56ee656c.css.map": "/boredrobot/static/css/main.56ee656c.css.map",
+    "main.d5ec5974.js.map": "/boredrobot/static/js/main.d5ec5974.js.map",
+    "787.9aac5ed5.chunk.js.map": "/boredrobot/static/js/787.9aac5ed5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56ee656c.css",
+    "static/js/main.d5ec5974.js"
+  ]
+}
